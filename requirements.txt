@@ -1,0 +1,13 @@
+streamlit
+streamlit-feedback
+langchain
+langchain-community
+langchain-groq
+langgraph
+faiss-cpu
+langchain-openai
+PyMuPDF
+transformers
+ipywidgets
+llama-index
+llama-index-llms-groq
