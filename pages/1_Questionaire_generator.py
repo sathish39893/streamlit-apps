@@ -28,7 +28,7 @@ st.set_page_config(
 )
 
 with st.sidebar:
-    MODEL_OPTIONS = ["llama-3.1-70b-versatile", "llama3-8b-8192","gemma2-9b-it"]
+    MODEL_OPTIONS = ["deepseek-r1-distill-llama-70b", "llama-3.1-8b-instant","llama3-70b-8192","gemma2-9b-it"]
     groq_api_key = st.text_input(
         "Groq API Key", key="langchain_search_api_key_groq", type="password"
     )
