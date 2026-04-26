@@ -11,3 +11,4 @@ transformers
 ipywidgets
 llama-index
 llama-index-llms-groq
+langchain-openai
