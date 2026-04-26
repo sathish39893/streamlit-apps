@@ -12,3 +12,4 @@ ipywidgets
 llama-index
 llama-index-llms-groq
 langchain-openai
+openai-agents
